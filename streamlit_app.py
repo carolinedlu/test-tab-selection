@@ -9,14 +9,14 @@ tab1, tab2, tab3 = st.tabs(["Cat", "Dog", "Owl"])
 #    st.write("Tab 3")
 
 if tab1:
-   curr_tab = "Cat"
+#    curr_tab = "Cat"
    st.write("clicked tab1")
-elif tab2:
-   curr_tab = "Dog"
-   st.write("clicked tab2")
-elif tab3:
-   curr_tab = "Owl"
-   st.write("clicked tab3")
+# elif tab2:
+#    curr_tab = "Dog"
+#    st.write("clicked tab2")
+# elif tab3:
+#    curr_tab = "Owl"
+#    st.write("clicked tab3")
 
 
 st.write(curr_tab)
