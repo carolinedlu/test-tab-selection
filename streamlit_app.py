@@ -17,7 +17,3 @@ if tab1:
 # elif tab3:
 #    curr_tab = "Owl"
 #    st.write("clicked tab3")
-
-
-st.write(curr_tab)
-st.write(tab1)
