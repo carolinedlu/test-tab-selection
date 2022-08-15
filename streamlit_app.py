@@ -10,10 +10,14 @@ with tab3:
 
 if tab1:
    curr_tab = "Cat"
+   st.write("clicked tab1")
 elif tab2:
    curr_tab = "Dog"
+   st.write("clicked tab2")
 elif tab3:
    curr_tab = "Owl"
+   st.write("clicked tab3")
+
 
 st.write(curr_tab)
 st.write(tab1)
