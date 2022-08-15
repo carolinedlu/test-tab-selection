@@ -11,6 +11,8 @@ tab1, tab2, tab3 = st.tabs(["Cat", "Dog", "Owl"])
 if tab1:
 #    curr_tab = "Cat"
    st.write("clicked tab1")
+if tab2:
+   st.write("clicked tab2")
 # elif tab2:
 #    curr_tab = "Dog"
 #    st.write("clicked tab2")
