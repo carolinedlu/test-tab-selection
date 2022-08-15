@@ -16,3 +16,4 @@ elif tab3:
    curr_tab = "Owl"
 
 st.write(curr_tab)
+st.write(tab1)
